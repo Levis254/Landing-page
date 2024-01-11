@@ -6,6 +6,32 @@
     font-family: "Poppins", san-serif;
 }
 
-.partioned {
+div .partitioned {
  display: flex;
+}
+
+form>input {
+    padding: 3px 40px;
+    display: flex;
+    font-size: 15px;
+    position: relative;
+    text-align: center;
+    
+}
+#email {
+    width: 40%;
+}
+#submit {
+    background-color: black;
+    color: white;
+    font-weight: 300;
+}
+.image {
+    position:relative;
+    top:50%;
+    left:35%;
+}
+
+h4{
+    text-transform: capitalize;
 }
