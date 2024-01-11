@@ -142,7 +142,7 @@ label{
         transition-property: color;
     }
     label:hover{
-        color: #fff;
+        color: #fff; 
 
     }
     label .close-btn{
